@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "QuantityIntent",
+      "slots": [
+      {
+        "name" : "Item",
+        "type": "LIST_OF_ITEMS"
+      }
+     ]
+    },
+    {
+      "intent": "RemoveIntent",
+      "slots": [
+      {
+        "name" : "Item",
+        "type": "LIST_OF_ITEMS"
+      }, {
+        "name" : "Number",
+        "type": "QUANTITY"
+      }
+     ]
+    },
+    {
+      "intent": "AddIntent",
+      "slots": [
+      {
+        "name" : "Item",
+        "type": "LIST_OF_ITEMS"
+      }, {
+        "name" : "Number",
+        "type": "QUANTITY"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
