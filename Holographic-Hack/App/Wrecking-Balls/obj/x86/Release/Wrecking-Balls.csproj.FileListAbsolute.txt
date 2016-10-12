@@ -1,0 +1,444 @@
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\App.xbf
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\MainPage.xbf
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.xr.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.exe
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\resources.pri
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\AppxManifest.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Core\AppxManifest.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Core\Wrecking-Balls.exe
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.build.appxrecipe
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.ApplicationInsights.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.CSharp.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Core.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Numerics.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Web.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Windows.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.Linq.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.Serialization.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.VisualBasic.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.Win32.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.AppContext.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.Concurrent.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.Immutable.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.NonGeneric.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.Specialized.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.Annotations.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Data.Common.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Contracts.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Debug.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.StackTrace.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Tools.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Tracing.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Dynamic.Runtime.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Globalization.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Globalization.Calendars.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Globalization.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.Compression.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\ClrCompression.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.Compression.ZipFile.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.FileSystem.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.IsolatedStorage.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.Expressions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.Parallel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.Queryable.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Http.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Http.Rtc.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.NetworkInformation.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Requests.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Sockets.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.WebHeaderCollection.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Numerics.Vectors.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ObjectModel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.DataContractSerialization.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.Networking.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.ServiceModel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.Uri.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Context.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.DispatchProxy.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Emit.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Metadata.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.TypeExtensions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Resources.ResourceManager.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Handles.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.InteropServices.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Numerics.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.Json.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Security.Claims.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Security.Principal.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Duplex.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Http.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.NetTcp.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Security.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.Encoding.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.Encoding.CodePages.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.Encoding.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.RegularExpressions.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Overlapped.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Tasks.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Timer.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.ReaderWriter.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.XDocument.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.XmlDocument.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.XmlSerializer.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.winmd
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.Networking.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.UI.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.winmd
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineProxy.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityPlayer.winmd
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTBridge.winmd
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTLegacy.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.UI.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.Networking.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityPlayer.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTBridge.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTBridge.pri
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.pri
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.dll
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.pri
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineProxy.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineProxy.pri
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\Wrecking-Balls.csprojResolveAssemblyReference.cache
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.g.i.cs
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.g.cs
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.g.i.cs
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.g.cs
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\XamlTypeInfo.g.cs
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.xaml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.xaml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.xbf
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.xbf
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\XamlSaveStateFile.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\Wrecking-Balls.exe
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\Wrecking-Balls.pdb
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\ResourceHandlingTask.state
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.Microsoft.CSharp.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.AppContext.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.Concurrent.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.Immutable.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.Specialized.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Data.Common.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Globalization.Extensions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.Compression.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.FileSystem.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.Expressions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.Parallel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.Queryable.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Net.Http.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Net.Requests.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Numerics.Vectors.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.ObjectModel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.Networking.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.ServiceModel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.Uri.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Reflection.Context.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Reflection.Metadata.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.Extensions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.Numerics.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Security.Claims.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.Overlapped.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.XDocument.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\priconfig.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\priconfig.xml.intermediate
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\layout.resfiles
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\layout.resfiles.intermediate
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\resources.resfiles
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\resources.resfiles.intermediate
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\pri.resfiles
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\pri.resfiles.intermediate
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\qualifiers.txt
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\qualifiers.txt.intermediate
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\WinRTBridge.pri.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\BridgeInterface.pri.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\UnityEngineDelegates.pri.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\UnityEngineProxy.pri.xml
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\ProjectArchitectures.txt
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\App.xbf
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\MainPage.xbf
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.xr.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.exe
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\resources.pri
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\AppxManifest.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Core\AppxManifest.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Core\Wrecking-Balls.exe
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Wrecking-Balls.build.appxrecipe
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.ApplicationInsights.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.CSharp.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Core.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Numerics.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Web.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Windows.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.Linq.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.Serialization.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.VisualBasic.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\Microsoft.Win32.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.DataContractSerialization.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.AppContext.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.Concurrent.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.Immutable.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.NonGeneric.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Collections.Specialized.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.Annotations.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Data.Common.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Contracts.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Debug.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.StackTrace.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Tools.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Diagnostics.Tracing.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Dynamic.Runtime.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Globalization.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Globalization.Calendars.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Globalization.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.Compression.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\ClrCompression.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.Compression.ZipFile.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.FileSystem.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.IsolatedStorage.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.Expressions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.Parallel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Linq.Queryable.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Http.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Http.Rtc.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.NetworkInformation.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Requests.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.Sockets.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Net.WebHeaderCollection.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Numerics.Vectors.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ObjectModel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.Networking.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.ServiceModel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Private.Uri.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Context.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.DispatchProxy.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Emit.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Metadata.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Reflection.TypeExtensions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Resources.ResourceManager.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Handles.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.InteropServices.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Numerics.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.Json.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Security.Claims.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Security.Principal.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Duplex.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Http.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.NetTcp.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Primitives.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.ServiceModel.Security.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.Encoding.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.Encoding.CodePages.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.Encoding.Extensions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Text.RegularExpressions.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Overlapped.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Tasks.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Threading.Timer.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.ReaderWriter.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.XDocument.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.XmlDocument.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\System.Xml.XmlSerializer.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.winmd
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.Networking.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.UI.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.winmd
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineProxy.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityPlayer.winmd
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTBridge.winmd
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTLegacy.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.UI.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngine.Networking.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityPlayer.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTBridge.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\WinRTBridge.pri
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\BridgeInterface.pri
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.dll
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineDelegates.pri
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineProxy.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\bin\x86\Release\UnityEngineProxy.pri
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\Wrecking-Balls.csprojResolveAssemblyReference.cache
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.g.i.cs
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.g.cs
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.g.i.cs
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.g.cs
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\XamlTypeInfo.g.cs
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.xaml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.xaml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\App.xbf
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MainPage.xbf
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\XamlSaveStateFile.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\Wrecking-Balls.exe
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\Wrecking-Balls.pdb
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\ResourceHandlingTask.state
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.Microsoft.CSharp.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.AppContext.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.Concurrent.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.Immutable.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Collections.Specialized.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Data.Common.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Globalization.Extensions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.Compression.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.FileSystem.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.Expressions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.Parallel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Linq.Queryable.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Net.Http.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Net.Requests.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Numerics.Vectors.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.ObjectModel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.Networking.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.ServiceModel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Private.Uri.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Reflection.Context.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Reflection.Metadata.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.Extensions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.Numerics.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Security.Claims.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.Overlapped.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.XDocument.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\priconfig.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\priconfig.xml.intermediate
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\layout.resfiles
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\layout.resfiles.intermediate
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\resources.resfiles
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\resources.resfiles.intermediate
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\pri.resfiles
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\pri.resfiles.intermediate
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\qualifiers.txt
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\qualifiers.txt.intermediate
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\WinRTBridge.pri.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\BridgeInterface.pri.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\UnityEngineDelegates.pri.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\UnityEngineProxy.pri.xml
+D:\Users\cqngu\Desktop\Wrecking-Balls\App\Wrecking-Balls\obj\x86\Release\ProjectArchitectures.txt

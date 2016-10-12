@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <string name="app_name">Yaker!</string>
+
+    <string name="tittle">Yaker!</string>
+    <string name="color">Colors</string>
+    <string name="picture">Picture</string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+
+    <string name="subscription_key">3545af91e6744d5182d4f23a52d3550a</string>
+
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
+
+    <string name="luisAppID">yourLuisAppID</string>
+    <string name="luisSubscriptionID">yourLuisSubscriptionID</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

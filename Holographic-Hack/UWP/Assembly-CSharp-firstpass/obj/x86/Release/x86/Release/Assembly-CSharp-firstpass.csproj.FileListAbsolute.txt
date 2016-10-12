@@ -1,0 +1,19 @@
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+D:\Hololens\Wrecking-Balls\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+              android:orientation="vertical"
+             tools:context="com.tacoma.uw.leebui99.yaker.fragment.MenuFragment">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tittle"
+        android:id="@+id/tittle"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EXIT"
+        android:id="@+id/button2"
+        android:layout_gravity="right" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:text="@string/color"
+        android:id="@+id/color"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:text="@string/picture"
+        android:id="@+id/picture"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>

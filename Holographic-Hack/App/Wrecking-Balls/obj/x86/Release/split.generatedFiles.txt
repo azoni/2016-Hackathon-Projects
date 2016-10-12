@@ -1,0 +1,2 @@
+obj\x86\Release\split.pri
+obj\x86\Release\split.map.txt

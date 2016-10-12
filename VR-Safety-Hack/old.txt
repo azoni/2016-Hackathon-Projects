@@ -1,0 +1,108 @@
+using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using System;
+using System.IO;
+using System.Text;
+
+public class Timer : MonoBehaviour {
+
+    public Text counterText;
+    public float seconds, minutes;
+    static string[] myIndex;
+	private int question_num;
+	private static float my_height = 0;
+	private Boolean open = false;
+	private Rect windowRect = new Rect ((Screen.width - 200) / 2, (Screen.height - 300) / 2, 200, 300);
+	static StringBuilder myStringBuilder = new StringBuilder();
+
+    // Use this for initialization
+    void Start () {
+		
+        counterText = GetComponent<Text>() as Text;
+        StreamReader sr = File.OpenText("questions.txt");
+        string line;
+        while ((line = sr.ReadLine()) != null)
+        {
+            myIndex = line.Split(',');
+        }
+    }
+	
+	// Update is called once per frame
+	void Update () {
+		
+		if (my_height < 0.5) { 
+			my_height = (float)Camera.main.gameObject.transform.position.y;
+		}
+        minutes = (int)(Time.time / 60f);
+        seconds = (int)(Time.time % 60f);
+		Debug.Log("the players coordinates are " + my_height);
+        counterText.text = minutes.ToString("00") + ":" + seconds.ToString("00");
+
+		if (counterText.text.Equals("00:10") && ((float)Camera.main.gameObject.transform.position.y > (float)(0.5 * my_height)))
+        {
+			open = true;
+            PromptUser(0);
+		} 
+		if (counterText.text.Equals("00:30"))
+		{
+			PromptUser(1);
+		} 
+		if (counterText.text.Equals("00:60"))
+		{
+			PromptUser(2);
+			//Debug.Log(myStringBuilder.ToString());
+		} 
+	}
+	void onCollisionEnter(Collision cylinder) {
+
+		if (cylinder.collider.tag == "Alarm") {
+			Debug.Log ("Test Alarm");
+		}
+	}
+
+	void DialogWindow(int windowID) 
+	{
+		float y = 20;
+		GUI.Label(new Rect(5,y,windowRect.width - 10,20),"How do ");
+
+
+	}
+	void OnGUI()
+	{
+		if(open)
+			windowRect = GUI.Window (0, windowRect, DialogWindow, "Make the Choice!");
+	}
+    protected static string PromptUser(int theQuestionLevel)
+    {
+        //the value will change depending on the selection. 
+        string currQuestion = myIndex[(theQuestionLevel * 3) + 0];
+        //good response is going to return true
+        string currOption1 = myIndex[(theQuestionLevel * 3) + 1];
+        //bad response is going to return false
+        string currOption2 = myIndex[(theQuestionLevel * 3) + 2];
+        //Display shit
+		bool isCorrect = true;//EditorUtility.DisplayDialog("Make the choice!", currQuestion, currOption1, currOption2);
+        //translate back to text
+        string returnStr;
+        if (isCorrect)
+        {
+            returnStr = currOption1;
+			//EditorUtility.DisplayDialog("Correct!", currQuestion, currOption1, currOption2);
+        }
+        else
+        {
+            returnStr = currOption2;
+			//EditorUtility.DisplayDialog("wrong!", currQuestion, currOption1, currOption2);
+        }
+        myStringBuilder.Append(returnStr + '\n');
+
+        return returnStr;
+    }
+    //Show the path that the student took (log)
+    static string getReview()
+	{
+        return myStringBuilder.ToString();
+    }
+}

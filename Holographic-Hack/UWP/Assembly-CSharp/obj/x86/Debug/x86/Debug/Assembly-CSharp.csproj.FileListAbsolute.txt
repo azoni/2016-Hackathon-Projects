@@ -1,0 +1,41 @@
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.dll
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pdb
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pri
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.dll
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.pdb
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HoloLens\Desktop\HolographicAcademy-Holograms-101-2\HolographicAcademy-Holograms-101\Catch up Chapters\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.dll
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pdb
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp.pri
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.dll
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.pdb
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HoloLens\Desktop\8-Finale\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\cqngu\Desktop\Wrecking Balls\HolographicAcademy-Holograms-101\Wrecking Balls\UWP\Assembly-CSharp\obj\x86\Debug\x86\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
