@@ -1,0 +1,152 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Access Map</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-theme.min.css') }}"/>
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/homepage.css') }}"/>
+        <script src="{{ url_for('static', filename='js/modernizr-2.8.3-respond-1.4.2.min.js') }}"></script>
+
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Access Map - Tacoma</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Home <span class="sr-only">(current)</span></a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#datasources">Data Sources</a></li>
+            <li><a href="#getinvolved">Get Involved</a></li>
+            <li><a href="#support">Support</a></li>
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Welcome to Access Map!</h1>
+        <p>Our application is still in beta, but we would love for you to try it out. Click below to go to the map, or keep reading to get more information about the project.</p>
+        <p><a href="#getinvolved" class="btn btn-default btn-lg" style="margin-right:5px;">Get Involved</a><a class="btn btn-primary btn-lg" href="{{ url_for('map') }}" role="button">Try It Now &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-12">
+          <a name="about"></a>
+          <h2>About</h2>
+          <p>Our application is a map which displays a variety of possible obstacles for people with limited mobility. It can be easily viewed on both desktop and mobile. To remove some of the data from the map, simply hover over (or tap on mobile) the Layers icon in the top right-hand corner of the screen. This will allow you to turn on and off various data sets. To search for a specific location, use the search icon on the left-hand side of the screen. If you find that you are unable to see any information on the map other than elevation data, please try zooming in more, as some information does not appear until you are zoomed in closely. For more information about what each of the symbols on the map mean, please see the legend below: </p>
+          <table>
+            <tr>
+              <th colspan="2" style="text-align:center;">Legend</th>
+            </tr>
+            <tr>
+              <td><b>Elevation</b></td><td>Green, Yellow, and Red sidewalk segments</td>
+            </tr>
+            <tr>
+              <td><b>Curb Ramp</b></td><td><img src="{{ url_for('static', filename='img/blue_circle.png') }}"></td>
+            </tr>
+            <tr>
+              <td><b>Construction</b></td><td><img src="{{ url_for('static', filename='img/construction.png') }}"></td>
+            </tr>
+            <tr>
+              <td><b>Bus Stop</b></td><td><img src="{{ url_for('static', filename='img/bus.png') }}"></td>
+            </tr>
+            <tr>
+              <td><b>Elevator</b></td><td><img src="{{ url_for('static', filename='img/Elevator.png') }}"></td>
+            </tr>
+          </table>
+
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <a name="datasources"></a>
+          <h2>Data Sources</h2>
+          <p>Our data comes from many places, so we want to call attention to the organizations that are providing the data we need to make our application work.
+              <dl class="dl-horizontal">
+                <dt>Map</dt><dd><a href="https://www.mapbox.com/">Mapbox</a></dd>
+                <dt>Sidewalk & Construction</dt><dd><a href="https://data.seattle.gov/">SDOT through data.seattle.gov</a></dd>
+                <dt>Elevation</dt><dd><a href="http://nationalmap.gov/elevation.html">National Elevation Dataset</a></dd>
+                <dt>Bus Stop</dt><dd><a href="http://pugetsound.onebusaway.org/p/OneBusAwayApiService.action">OneBusAway</a></dd>
+              </dl>
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <a name="getinvolved"></a>
+          <h2>Get Involved</h2>
+          <p>We are looking for people to help us in our efforts. Right now, there are two ways you can help. If you have limited mobility, we would love to get some feedback from you about our application! Please fill out <a href="https://docs.google.com/forms/d/1nVlY14QMSAjwPB6iV2pQiTodjujX2U-mX0Tth2lxR-4/viewform">this short survey</a>, and we will get back to you as soon as possible to hear your thoughts. If you are a developer who is interested in helping us out, please <a href="https://github.com/azoni/AccessMap-webapp">check out our GitHub repository</a> or email us at <a href="mailto:developers@accessmapseattle.com">developers@accessmapseattle.com</a> to find out how you can get involved. Right now, we are really looking for someone with map and routing experience, but don’t let the lack of those skills stop you from helping. </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <a name="support"></a>
+          <h2>Support</h2>
+          <p>This project would not be where it is today without the help of the following people and organizations: </p>
+          <ul class="list-unstyled">
+            <li>The Taskar Center for Accessible Technology</li>
+            <li>Alan Borning, Department of Computer Science and Engineering at UW</li>
+            <li>The Seattle Commission for People with Disabilities</li>
+            <li>Seattle Department of Transportation</li>
+          </ul>
+
+        </div>
+      </div>
+
+
+
+      <hr>
+
+      <footer style="margin-bottom:20px;">
+        <span>&copy; Access Map Tacoma 2016</span><span style="float:right;">Contact Us: <a href="mailto:info@accessmapseattle.com">info@accessmapseattle.com</a>  <a href="https://twitter.com/accessmapsea">@AccessMapTac</a></a></span>
+      </footer>
+    </div> <!-- /container -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="{{ url_for("static", filename="js/jquery-1.11.2.min.js") }}"><\/script>')</script>
+
+      <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+      <script>
+        $(function() {
+          $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+              var target = $(this.hash);
+              target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                $('html,body').animate({
+                  scrollTop: target.offset().top
+                }, 1000);
+                return false;
+              }
+            }
+          });
+        });
+      </script>
+    </body>
+</html>

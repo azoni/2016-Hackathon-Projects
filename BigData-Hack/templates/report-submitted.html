@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<link href="{{ url_for('static', filename='css/report.css') }}" rel="stylesheet"> 
+<div class="container">
+	<div class="row">
+		<h3 style="font-size: 16px; margin-top: 10px; margin-bottom: 10px">Thank you!</h3>
+	</div>
+    <div class="row"> 
+	    <div class="col-xs-1">
+	    </div>
+	    <div class="col-xs-10">
+	     	<div class="report">
+	      		<p style="text-align:center;">Thank you for letting us know.  Your changes will be reflected on our maps soon.</p>
+        	</div>
+		</div>
+		<div class="col-xs-1"> 
+		</div> 
+    </div>
+</div>
+
+    <script>
+      function returnTimer() {
+      	setTimeout(function(){window.location.href = '{{ url_for("map") }}';},3000);
+      }
+      returnTimer();
+    </script>
+{% endblock content %}

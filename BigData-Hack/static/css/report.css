@@ -1,0 +1,59 @@
+h3 {
+	width:100%;
+	text-align: center;
+}
+
+.menu-icon {
+	height: 120px;
+	width: 120px;
+	min-height: 120px; 
+	min-height: 120px; 
+	background-repeat: no-repeat;	
+    background-position: bottom; 
+    margin-bottom: 10px; 
+}
+
+.row .construction-image {
+	background-image: url(../img/construction-sm.png);
+	background-repeat: none; 
+}
+
+.row .ramp-image {
+	background-image: url(../img/ramp-sm.png);
+}
+
+.row .elevator-image {
+	background-image: url(../img/Elevator-sm.png);
+}
+
+.row .incline-image {
+	background-image: url(../img/slope-sm.png);
+}
+
+.row .stairs-image {
+	background-image: url(../img/Stairs_icon-sm.png);
+}
+
+.row .other-image {
+	background-image: url(../img/others-sm.png);
+}
+
+.icon-row {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.menu-icon {
+	background-color: #0052CC;
+	border-color: #4D94FF;
+	border-style: outset;
+	border-width: 3px;
+	padding-top: 3px;
+
+}
+
+.menu-icon:hover {
+	background-color: #4D94FF;
+}

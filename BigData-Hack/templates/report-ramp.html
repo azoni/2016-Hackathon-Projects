@@ -1,0 +1,13 @@
+{% extends "report-form-base.html" %}
+
+{% block customtitle %}
+        <h3 style="margin-top: 15px; font-size: 30px; padding-bottom: 0px; margin-bottom: 0px"> <img style="vertical-align: bottom" src="{{ url_for('static', filename='img/ramp-sm.png') }}" alt="Curb Ramp Icon" title="Curb Ramp icon" height="42" width="42"> No Curb Ramp </h3>
+{% endblock customtitle %}
+
+{% block customlocation %}
+          <textarea rows="2">Example: Second and Spring</textarea>
+{% endblock customlocation %}
+
+{% block customdescription %}
+          <textarea rows="4">Example: No curb ramp at Second and Spring, northwest corner</textarea>
+{% endblock customdescription %}

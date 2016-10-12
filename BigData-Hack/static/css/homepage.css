@@ -1,0 +1,33 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+  background: url("../img/hill.jpg");
+  background-size: cover;
+  background-position: right center; 
+  background-repeat: no-repeat;
+  padding-top: 80px; 
+  padding-bottom: 40px; 
+  color: white;  
+}
+
+.jumbotron p {
+	font-size: 1.6em; 
+}
+
+.jumbotron h1 {
+	font-weight: bold;
+}
+
+table img {
+  width: 30px; 
+}
+
+td {
+  padding: 10px; 
+}
+
+table, td, th {
+    border: 1px solid black;
+}

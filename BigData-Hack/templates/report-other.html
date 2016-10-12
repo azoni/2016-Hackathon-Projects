@@ -1,0 +1,13 @@
+{% extends "report-form-base.html" %}
+
+{% block customtitle %}
+        <h3 style="margin-top: 15px; font-size: 30px; padding-bottom: 0px; margin-bottom: 0px"> <img src="{{ url_for('static', filename='img/others-sm.png') }}" alt="Other Icon" title="Other icon" height="42" width="42" style="vertical-align: bottom"> Other Obstacle </h3>
+{% endblock customtitle %}
+
+{% block customlocation %}
+          <textarea rows="2">Example: Second Ave between Spring and Seneca</textarea>
+{% endblock customlocation %}
+
+{% block customdescription %}
+          <textarea rows="4">Example: Not enough room to pass between sandwich boards and benches</textarea>
+{% endblock customdescription %}

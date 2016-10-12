@@ -1,0 +1,23 @@
+body {
+	text-align: left;
+}
+
+.container {
+	width: 300px;
+	height: 568px;
+	text-align: left;
+	color: black;
+}
+
+.container .report {
+	text-align: left;
+}
+
+textarea {
+	width: 250px;
+}
+
+.btn {
+	margin-top: 40px;	
+}
+

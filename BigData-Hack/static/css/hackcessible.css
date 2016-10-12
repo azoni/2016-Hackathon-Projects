@@ -1,0 +1,55 @@
+body {
+    margin: 0 auto;
+}
+
+.icon {
+	height:30px;
+	width: 30px;
+	margin-top:-21px;
+}
+
+ul {
+	width:90%;
+	margin: 0 auto;
+	list-style-type: none;
+
+}
+
+h1 {
+	width:100%;
+	background-color: #78aa36;
+	margin:0px;
+	padding:10px;
+	text-align: center;
+	color:white;
+}
+
+#googleMap {
+	margin: 0 auto;
+	width:320px;
+	height:568px;
+}
+
+/*
+input[type='checkbox'] {
+    -webkit-appearance:none;
+    width:30px;
+    height:30px;
+    background:white;
+    border-radius:5px;
+    border:2px solid #555;
+}
+input[type='checkbox']:checked {
+    background: #abd;
+}
+*/
+
+#locationButton {
+	text-align: center;
+	padding:10px;
+	margin-top: 10px;
+}
+
+#add-button {
+	padding: 7px;
+}

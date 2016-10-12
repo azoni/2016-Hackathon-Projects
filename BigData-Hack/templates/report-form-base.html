@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+<!-- Could go in head
+<title>Obstacle Details</title>
+<link href="{{ url_for('static', filename='css/report-details.css') }}" rel="stylesheet">
+-->
+
+<!--
+<body onload="init();">
+-->
+
+{% block content %}
+	    <div class="container">
+	    	<div class="row">
+	    		<h1 style="font-size: 16px; margin-top: 10px; margin-bottom: 10px"><a href="{{ url_for('report') }}" style="color: white">Back to Categories</a></h1>
+	    	</div>
+
+{% block customtitle %}
+{% endblock customtitle %}
+
+	      <div class="report">
+          <p style="color: #474747; font-size: 12px; margin-bottom: 0px; margin-top: 15px">Location Clicked: <span id="loc-field" style="color: #707070"></span></p>
+          <p style="color: #474747; font-size: 12px; margin-top: 0px; padding-top: 0px">Reported On: <span id="date-field" style="color: #707070"></span></p>
+          <hr style="padding-top: 0px; margin-top: 0px">
+
+	      	<label style="margin-top: 10px; margin-bottom: 0px; padding-top: 0px">Location:</label>
+          <br>
+
+{% block customlocation %}
+{% endblock customlocation %}
+          <br>
+
+	      	<label style="margin-top: 20px; margin-bottom: 0px">Description:</label>
+          <br>
+
+{% block customdescription %}
+{% endblock customdescription %}
+
+	      	<div class="form-group" style="margin-top: 20px; margin-bottom: 0px">
+			      <label for="inputPhoto" style="margin-bottom: 0px; padding-bottom: 0px">Upload Photo</label>
+			      <p class="help-block" style="color: black; margin-top: 0px; margin-bottom: 0px">If you took a photo, you can upload it here</p>
+			      <input type="file" id="inputPhoto" style="margin-top: 0px">
+		 	    </div>
+	        <a type="submit" class="btn btn-lg btn-success center-block" style="margin-top: 30px"href="{{ url_for('submit') }}">Submit</a>
+	      </div>
+	    </div>
+
+    <script>
+		  var d = new Date();
+		  document.getElementById("date-field").innerHTML = d.toDateString();
+
+      function init() {
+        document.getElementById("loc-field").innerHTML = sessionStorage.getItem("obstacleLocation");
+      }
+      init();
+    </script>
+{% endblock content %}

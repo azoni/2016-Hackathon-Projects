@@ -1,0 +1,184 @@
+{% extends "base.html" %}
+{% block head %}
+  {{ super() }}
+  <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.css' rel='stylesheet' />
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.css"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/leaflet-search.css') }}"/>
+    <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    html, body, #map {
+        height: 100%;
+        width: 100%;
+    }
+  </style>
+{% endblock %}
+
+{% block content %}
+  <div id="map"></div>
+{% endblock %}
+
+{% block script %}
+  {{ super() }}
+  <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.js'></script>
+  <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.js'></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+  <script src="{{ url_for('static', filename='js/leaflet-search.min.js') }}"></script>
+  <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.24.0/L.Control.Locate.css"/>
+  <script src="{{ url_for('static', filename='js/easy-button.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/busdata.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/elevation.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/curbdata.js') }}"></script>
+  <!--
+  <script src="{{ url_for('static', filename='js/userreporteddata.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/elevators.js') }}"></script>
+  -->
+  <script src="{{ url_for('static', filename='js/construction-permits.js') }}"></script>
+
+  <script>
+    var FEATUREZOOM = 17;
+    var map = L.map('map', {zoomControl: false})
+
+    mapbox = L.tileLayer('http://api.tiles.mapbox.com/v4/mapbox.streets/{z}/{x}/{y}@2x.png?access_token=' + {{ mapbox_token|tojson }}, {
+      attribution: 'Map data &copy;',
+      maxZoom: 18
+    });
+    mapbox.addTo(map);
+
+    elevationTiles = L.mapbox.tileLayer('nbolten.3d42b895', {
+      accessToken: {{ mapbox_token|tojson }}
+    });
+    elevationTiles.addTo(map);
+
+    var stops = L.featureGroup({minZoom: 8});
+    var elevationlayer = L.featureGroup({minZoom: 8});
+    var curbs = L.featureGroup({minZoom: 8});
+    var userData = L.featureGroup({minZoom: 8});
+    var elevators = L.featureGroup({minZoom: 8});
+    var permits = L.featureGroup({minZoom: 8});
+
+    //Create filter checkboxes for the overlays
+    var overlayMaps = {
+      "Bus Stops": stops,
+      "Curb Ramps": curbs,
+      "User Reported Data":userData,
+      "Elevators":elevators,
+      "Elevation Change": elevationlayer,
+      "Sidewalk Closure Permits": permits,
+      "User Reported Data": userData
+    }
+
+    // Read in data to increase speed later on (generate a promise)
+
+    // Temporarily disabled until these features are further fleshed ou
+    // userDataDataRequest = $.ajax({
+    //   url: '{{ url_for("static", filename="data/userReported.json") }}'
+    // });
+    // elevatorDataRequest = $.ajax({
+    //   url: '{{ url_for("static", filename="data/elevators.json") }}'
+    // });
+
+    updateLayers = function() {
+      requestStopsUpdate(stops, map);
+      requestElevationsUpdate(elevationlayer, map, {{ api_url|tojson }});
+      requestCurbsUpdate(curbs, map, {{ api_url|tojson }});
+      requestConstructionPermitUpdate(permits, map, {{ api_url|tojson }});
+      //requestUserDataUpdate(userData, map);
+      //requestElevatorUpdate(elevators, map);
+    }
+
+    map.on('load', function(e) {
+      updateLayers();
+      map.setView([47.609700, -122.324638], FEATUREZOOM)
+    });
+
+    map.on('moveend', function(e) {
+      if (map.getZoom() >= FEATUREZOOM) {
+        updateLayers();
+      }
+    });
+
+    map.on('zoomend', function() {
+      if (map.getZoom() < FEATUREZOOM) {
+        map.removeLayer(stops);
+        map.removeLayer(elevationlayer);
+        map.removeLayer(curbs);
+        map.removeLayer(permits);
+        //map.removeLayer(userData);
+        //map.removeLayer(elevators);
+        elevationTiles.addTo(map);
+      } else {
+        stops.addTo(map);
+        elevationlayer.addTo(map);
+        curbs.addTo(map);
+        permits.addTo(map);
+        //userData.addTo(map);
+        //elevators.addTo(map);
+        map.removeLayer(elevationTiles);
+      }
+    });
+
+    map.on('contextmenu', function(e) {
+      var popup = confirm("Do you want to report a new obstacle?");
+      if (popup == true) {
+          window.location.href = 'report?lat=' + e.latlng.lat + '&lon=' + e.latlng.lng;
+      }
+    });
+
+    {% if 'lat' in location_args and 'lon' in location_args %}
+      var location_info = {{ location_args|tojson }};
+      map.setView([location_info['lat'], location_info['lon']]);
+    {% else %}
+      map.setView([47.652810, -122.308690], FEATUREZOOM);
+    {% endif %}
+
+    // Add geocoder
+    var geocoder = new google.maps.Geocoder();
+    function filterJSONCall(rawJson) {
+      var json = {},
+          key  = [],
+          loc  = [],
+          disp = [];
+
+      for (var item in rawJson) {
+        key = rawJson[item].formatted_address;
+        loc = L.latLng(rawJson[item].geometry.location.lat(), rawJson[item].geometry.location.lng());
+        json[key] = loc;
+      }
+
+      return json;
+    }
+    searchControl = new L.Control.Search({
+                      callData: function(text, callResponse) {
+                        geocoder.geocode({address: text,
+                                          componentRestrictions: {
+                                            country: 'US',
+                                            locality: 'Seattle'
+                                          }
+                                         },
+                                         callResponse);
+                      },
+                      filterJSON: filterJSONCall,
+                      markerLocation: true,
+                      autoType: false,
+                      autoCollapse: true,
+                      minLength: 2,
+                    });
+    // Add controls to map
+    map.addControl(searchControl);
+    new L.Control.Zoom().addTo(map);
+    L.control.locate().addTo(map);
+    L.control.layers(null, overlayMaps).addTo(map);
+
+    L.easyButton('fa-plus',
+              function (){
+                var popup = alert("To add new obstacles to the map, long-press (or right-click on desktop) the location of the obstacle and follow the prompts.");
+              },
+             'Add new obstacle'
+            );
+
+  </script>
+{% endblock %}
