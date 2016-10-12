@@ -1,2 +1,0 @@
-# Alexa-Ball
-VR experience
