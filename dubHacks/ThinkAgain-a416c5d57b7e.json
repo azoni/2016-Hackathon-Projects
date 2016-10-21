@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thinkagain-146603",
+  "private_key_id": "a416c5d57b7e413ee2a9ced7d43f4f2260a4f48e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDCZZVcv6i/U7OE\nI4w5t2IAhLpJT1LWUvBtP+5a5HHYzja6k1+09dsNYRsjjUCQXxn9zq6FPKuaTiFu\nLo0eCNSled/JfaeLhc2DEhdjPIoZvjNhwLFlwo2fWCbEwRb/UH9RjsbeFdr5fg2m\nFvdr9Uz2cdr/DrMtQn0SoZgiNSmF0wPv/lpu7A5vmcPHNSnd402S+5qLrYJkK+qx\n98ddzLixL1R3J71BzJfELgszTnMEBETG93HUuiwqDgSQzsFlc75Tc8kcb+OHrpi3\n3Y3LyIoJd8C1CjtDmwc3JikgmK0MYR5vJ8Q1vmRkqHUruK7n6z/SIObxkf6Q01Mu\nKL9kG3BzAgMBAAECggEBALRoe/5QbHXrYv1t1BQ4ST4773pboIABBtoM69L0kWdo\nsUfjv318cWdwSDRtQY76g2+VoUdLb+JLQiE0GIjYHyjW+0XOVHBao8hRQN068NtF\nNgAxSTEsJizMLWaJ4CLf/NiezZaL5+WFA3uxcruBMoTAU0JDzStiuhpRV5PfjIKB\nHamlT+5GeZ1OZSnA+2OPlMmX0FYRoAGGWow2Q9JSvV54cq1+HCB6m0y+tbQZUpLV\nUbsTweFUV1bjIiIE7ZD38qf95wwtyn5QBn4KeTi56k5p8LmnJkVIUgDpViFga91i\npEGzOe2QuGJSFrRf32ibKaBBytKbUUbQRbn4GPepZ1ECgYEA5qkX0nrz6eWqmPey\nCglIqERysTVy1n3ybwISKZUKwOmpQ3nilxxPVckQrK9FQospM2KJyuuRu1f51wHB\nMDtp+W95v6zRgEhf8MMrmiqpYD0Py4dtCDBdDhhv4uXVZmm7GBvQrVW7Zt3RyV/2\n33L7H/H5pvYpyJiVsMQRkOE0KqkCgYEA18Cjvkf/Xa+xnJ1oI63zycgoWwugtAsR\numiHWHmjK+DfGr30NLhQw7pyTVxCkrCtSaYq83Tjy9ylU+cegY/GA1YqnzyPIqic\nolldGH3ZYHBzDnSTSZeFty8SPPmZjfi1lTwYfUhcOzb3F+zQDPMG2j9SqXbFKy5o\nwiD2fooZb7sCgYEAycTAge3rz36HbKe/pefZFthJO5p1igtCNripCpbFgVrkJZJJ\nE8Y/39qyK1xmSX9R2xEnV8oZALhEZD+0rmxKl1dcOL8DxCOLSSBw07rdzsGbP36H\ncdJclCfsN560vZFfiAdM01NbSvBewrifS3dZFOimadaLVl2jE61vcDyPVYECgYEA\nnUxo1WEekIp4vsuQUnsPw6y3p3F5z+pGGZb+HoZIbcQ8RP363rkGwTzc+wPp0ZMY\nNBr/M5KkRkxvCRX3CtTstCANYR1A6i7uS/tFQYb3hjVV3VMm0z+ykJS0AlqkFnse\nwFgZLrYj8FQpoHraUKaa92G1fbIHHG1wmSB5NlavJuMCgYB11SIj/FEF52PSzKTU\nC5zvgFSE47RSd01QJhGGRuj5mSSLiu61j8ZU506QO3QZqZMtFQDQs8rM2zk5yUXq\nfFaukAW3wIqNAUJ6qjkY/S0VeCkIIrhdsuHIW3sjLQl4KZDGqBB166N9HaQsLKNE\n8ONgI+Ric+l8P8f8bDjBd+EMCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dubhacks@thinkagain-146603.iam.gserviceaccount.com",
+  "client_id": "117813495037790701591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dubhacks%40thinkagain-146603.iam.gserviceaccount.com"
+}
