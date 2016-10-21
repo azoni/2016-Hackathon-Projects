@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Python Chat Server</title>
+        <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+    </head>
+    <body>
+        <h1>Python Chat Server</h1>
+        <ul class="chat">
+        </ul>
+        <form>
+            <input name="chatMessage" id="chat" type="text" />
+            <input type="submit" value="Send" />
+        </form>
+        <script>
+            var socket = io('http://localhost:8000');
+            socket.on('connect', function(){ alert("CONNECTED"); });
+            socket.on('event', function(data){});
+            socket.on('disconnect', function(){ alert("DISCONNECTED"); });
+            socket.on('welcome', function() { alert("WELCOME!"); });
+            socket.on('chat', function(data) {
+                var newMessage = document.createElement("li");
+                newMessage.innerHTML = data.body;
+                document.querySelector("ul").appendChild(newMessage);
+            });
+
+            document.body.querySelector("form").addEventListener("submit", function (e) {
+                e.preventDefault();
+                var body = document.body.querySelector("form input[name=chatMessage]").value;
+                socket.emit('chat', { body: body });
+                document.getElementById('chat').value='';
+            });
+        </script>
+    </body>
+</html>
