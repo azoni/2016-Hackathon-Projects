@@ -59,6 +59,7 @@ def chat(message):
 
 	message['body'] += "  (Emotion of %s (-1 to 1))" % emotion
 	emit('chat', {'body': message['body']}, broadcast=True)
+	
 if __name__ == '__main__':
 	port = int(os.environ.get("PORT", 8000))
 	socketio.run(app, port=port)

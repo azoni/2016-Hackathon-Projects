@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Anywhere Fitness</title>
+        <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+        <link rel=stylesheet type=text/css href="style.css">
+    </head>
+    <body>
+        <h1>Anywhere Fitness</h1>
+        <ul class="chat">
+        </ul>
+        <form>
+            <input name="chatMessage" id="chat" type="text" />
+            <input type="submit" value="Enter" />
+        </form>
+        <p>City, State Distance (Meters)</p>
+        <p>Example: Seattle, Washington 500</p>
+        <script>
+            var socket = io('http://localhost:8000');
+            socket.on('connect', function(){ alert("Lets Begin!"); });
+            socket.on('event', function(data){});
+            socket.on('disconnect', function(){ alert("DISCONNECTED"); });
+            socket.on('chat', function(data) {
+                var newMessage = document.createElement("li");
+                newMessage.innerHTML = data.body;
+                document.querySelector("ul").appendChild(newMessage);
+            });
+            document.body.querySelector("form").addEventListener("submit", function (e) {
+                e.preventDefault();
+                var body = document.body.querySelector("form input[name=chatMessage]").value;
+                socket.emit('chat', { body: body });
+                document.getElementById('chat').value='';
+            });
+        </script>
+    </body>
+</html>
