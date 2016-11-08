@@ -39,3 +39,5 @@ Incomplete/Hacked out projects for hackathons attended between January 2016-Dece
 18 T-Mobile IoT Tiny home. Oct 8 - 9
 
 19 Dub Hacks Oct 15-16
+
+20 Startup Smart City weekend
