@@ -1,0 +1,10 @@
+li a {
+    color: red;
+}
+
+body { 
+    background-image: url('images/background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
