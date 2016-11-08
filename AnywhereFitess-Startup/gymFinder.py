@@ -4,6 +4,10 @@ from flask_socketio import SocketIO, emit
 import os
 import httplib2
 import json
+import requests
+import re
+from geolocation.main import GoogleMaps 
+from geolocation.distance_matrix.client import DistanceMatrixApiClient
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
@@ -17,6 +21,15 @@ google_places = GooglePlaces(YOUR_API_KEY)
 # will be send as type param to fullfil:
 # http://googlegeodevelopers.blogspot.com.au/2016/02/changes-and-quality-improvements-in_16.htm
 
+#raw = requests.get('http://www.geoiptool.com/').text
+raw = "<div class=\"data-item\"><span class=\"bold\">Latitude:</span><span>47.6727<div class=\"data-item\"><span class=\"bold\">Longitude:</span><span>-417.6727"
+raw1 = "<div class=\"data-item\"><span class=\"bold\">Longitude:</span><span>-417.6727"
+
+lat = re.search('(?<=Latitude:</span><span>).\d+\.\d{1,4}',raw).group(0)
+lon = re.search('(?<=Longitude:</span><span>).\d+\.\d{1,4}',raw).group(0)
+#lon = map(float,latlon[0].split(","))
+print "Latitude: %s Longitude: %s"%(lat, lon)#   Longitude:%s"%(lat,lon)
+
 
 @app.route('/')
 def index():
@@ -25,6 +38,10 @@ def index():
 @socketio.on('connect')
 def connection():
 	emit('welcome')
+
+@app.route('/checkout')
+def checkout():
+	return render_template('checkout.html')
 
 @socketio.on('chat')
 def chat(message):
@@ -49,7 +66,7 @@ def chat(message):
 	    place.get_details()
 	    # Referencing any of the attributes below, prior to making a call to
 	    # get_details() will raise a googleplaces.GooglePlacesAttributeError.
-	    #print place.details # A dict matching the JSON response from Google.
+	    print place.details # A dict matching the JSON response from Google.
 	    print place.local_phone_number
 	    message['body'] = place.local_phone_number
 	    emit('chat', {'body': message['body']}, broadcast=True)
