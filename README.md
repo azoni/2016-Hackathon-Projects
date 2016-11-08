@@ -40,4 +40,4 @@ Incomplete/Hacked out projects for hackathons attended between January 2016-Dece
 
 19 Dub Hacks Oct 15-16
 
-20 Startup Smart City weekend
+20 Startup Smart City weekend Nov 4-6
